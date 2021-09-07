@@ -17,6 +17,13 @@ firebase_admin.initialize_app(cred, {
 db = firestore.client()
  
  
+def isnan(value):
+   try:
+       return math.isnan(float(value))
+   except:
+       return False
+ 
+ 
 def save_response_content(response, destination):
    CHUNK_SIZE = 32768
  
@@ -66,3 +73,9 @@ def already_processed(table_name, id):
 def fetch_data_from_excel(filename):
    df = pandas.read_excel(filename, engine='openpyxl')
    return df.to_dict(orient='records')
+ 
+ 
+def sanitize(s):
+   if isnan(s):
+       return ""
+   return s
