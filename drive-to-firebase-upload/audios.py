@@ -124,6 +124,7 @@ def process_audio(row_num, audio):
            upload_file_path = f'audios/upload_from_python_test/{audio_file_name}'
            print('📤 Uploading audio {}'.format(upload_file_path))
            blob = bucket.blob(upload_file_path)
+           blob.chunk_size = 5 * 1024 * 1024
            blob.upload_from_filename(audio_file_path)
            blob.make_public()
            # print(blob.public_url)
