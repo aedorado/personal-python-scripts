@@ -1,0 +1,5118 @@
+{
+    "Trent Limited": {
+        "Stock Name": "Trent Limited",
+        "Sector": "Speciality retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 241000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 241000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Zomato Ltd.": {
+        "Stock Name": "Zomato Ltd.",
+        "Sector": "E-retail/ e-commerce",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 6800000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 6800000.0
+            },
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 781000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 781000.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Kalyan Jewellers India Ltd.": {
+        "Stock Name": "Kalyan Jewellers India Ltd.",
+        "Sector": "Gems, jewellery and watches",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2480000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2480000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Polycab India Limited": {
+        "Stock Name": "Polycab India Limited",
+        "Sector": "Cables - electricals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 250000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 250000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Shaily Engineering Plastics Ltd.": {
+        "Stock Name": "Shaily Engineering Plastics Ltd.",
+        "Sector": "Plastic products - industrial",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1600000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1600000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jio Financial Services Ltd.": {
+        "Stock Name": "Jio Financial Services Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4700000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4700000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Deepak Fertilisers & Petrochemicals Corp. Ltd.": {
+        "Stock Name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+        "Sector": "Commodity chemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1142000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1142000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Coforge Ltd.": {
+        "Stock Name": "Coforge Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Bharti Airtel Ltd. - Partly Paid": {
+        "Stock Name": "Bharti Airtel Ltd. - Partly Paid",
+        "Sector": "Telecom - cellular & fixed line services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 900000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 900000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Persistent Systems Ltd.": {
+        "Stock Name": "Persistent Systems Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Sky Gold Ltd.": {
+        "Stock Name": "Sky Gold Ltd.",
+        "Sector": "Gems, jewellery and watches",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 225000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 225000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cholamandalam Financial Holdings Ltd.": {
+        "Stock Name": "Cholamandalam Financial Holdings Ltd.",
+        "Sector": "Investment company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 400000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 400000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Healthcare Global Enterprises Ltd.": {
+        "Stock Name": "Healthcare Global Enterprises Ltd.",
+        "Sector": "Hospital",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1250000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1250000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jubilant Ingrevia Ltd.": {
+        "Stock Name": "Jubilant Ingrevia Ltd.",
+        "Sector": "Specialty chemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 500000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 500000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Voltas Limited": {
+        "Stock Name": "Voltas Limited",
+        "Sector": "Household appliances",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "KEC International Ltd.": {
+        "Stock Name": "KEC International Ltd.",
+        "Sector": "Heavy electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 300000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 300000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bajaj Auto Ltd.": {
+        "Stock Name": "Bajaj Auto Ltd.",
+        "Sector": "2/3 wheelers",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Globus Spirits Ltd.": {
+        "Stock Name": "Globus Spirits Ltd.",
+        "Sector": "Breweries & distilleries",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Premier Energies Ltd.": {
+        "Stock Name": "Premier Energies Ltd.",
+        "Sector": "Other electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 220000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 220000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Mahindra & Mahindra Ltd.": {
+        "Stock Name": "Mahindra & Mahindra Ltd.",
+        "Sector": "Passenger cars & utility vehicles",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Karur Vysya Bank Ltd": {
+        "Stock Name": "Karur Vysya Bank Ltd",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cesc Ltd.": {
+        "Stock Name": "Cesc Ltd.",
+        "Sector": "Integrated power utilities",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tube Investments Of India Ltd.": {
+        "Stock Name": "Tube Investments Of India Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Motilal Oswal Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Motilal Oswal Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Maruti Suzuki India Ltd.": {
+        "Stock Name": "Maruti Suzuki India Ltd.",
+        "Sector": "Passenger cars & utility vehicles",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 704000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 704000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Hero Motocorp Ltd.": {
+        "Stock Name": "Hero Motocorp Ltd.",
+        "Sector": "2/3 wheelers",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1410000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1410000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "State Bank Of India": {
+        "Stock Name": "State Bank Of India",
+        "Sector": "Public sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7500000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7500000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 312000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 312000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1233000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1233000.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Oracle Financial Services Software Limited": {
+        "Stock Name": "Oracle Financial Services Software Limited",
+        "Sector": "Software products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 549000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 549000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Mphasis Ltd.": {
+        "Stock Name": "Mphasis Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1653000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1653000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Hindustan Petroleum Corporation Ltd.": {
+        "Stock Name": "Hindustan Petroleum Corporation Ltd.",
+        "Sector": "Refineries & marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 298000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 298000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Hindustan Unilever Ltd.": {
+        "Stock Name": "Hindustan Unilever Ltd.",
+        "Sector": "Diversified fmcg",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1543000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1543000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Power Finance Corporation Ltd.": {
+        "Stock Name": "Power Finance Corporation Ltd.",
+        "Sector": "Financial institution",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7764000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7764000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 677000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 677000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 625000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 625000.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Infosys Ltd.": {
+        "Stock Name": "Infosys Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2000000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2000000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 101000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 101000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Radico Khaitan Ltd.": {
+        "Stock Name": "Radico Khaitan Ltd.",
+        "Sector": "Breweries & distilleries",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1435000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1435000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Fortis Healthcare Ltd.": {
+        "Stock Name": "Fortis Healthcare Ltd.",
+        "Sector": "Hospital",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5387000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5387000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "National Thermal Power Corporation Ltd.": {
+        "Stock Name": "National Thermal Power Corporation Ltd.",
+        "Sector": "Power generation",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 8210000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 8210000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 201000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 201000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Bank Of Baroda": {
+        "Stock Name": "Bank Of Baroda",
+        "Sector": "Public sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "FSN E-Commerce Ventures Ltd.": {
+        "Stock Name": "FSN E-Commerce Ventures Ltd.",
+        "Sector": "E-retail/ e-commerce",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2561000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2561000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "PVR Inox Ltd.": {
+        "Stock Name": "PVR Inox Ltd.",
+        "Sector": "Film production, distribution & exhibition",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1935000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1935000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "NLC India Ltd.": {
+        "Stock Name": "NLC India Ltd.",
+        "Sector": "Power generation",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jyoti CNC Automation Ltd.": {
+        "Stock Name": "Jyoti CNC Automation Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2813000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2813000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 360000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 360000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Kalpataru Power Transmission Ltd.": {
+        "Stock Name": "Kalpataru Power Transmission Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2260000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2260000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "GAIL (India) Ltd.": {
+        "Stock Name": "GAIL (India) Ltd.",
+        "Sector": "Gas transmission/marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Life Insurance Corporation Of India": {
+        "Stock Name": "Life Insurance Corporation Of India",
+        "Sector": "Life insurance",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2840000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2840000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Pokarna Ltd.": {
+        "Stock Name": "Pokarna Ltd.",
+        "Sector": "Granites & marbles",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2392000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2392000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "The Jammu & Kashmir Bank Ltd.": {
+        "Stock Name": "The Jammu & Kashmir Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Sun TV Network Ltd.": {
+        "Stock Name": "Sun TV Network Ltd.",
+        "Sector": "Tv broadcasting & software production",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3257000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3257000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ashoka Buildcon Ltd.": {
+        "Stock Name": "Ashoka Buildcon Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 9775000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 9775000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Gujarat State Petronet Ltd.": {
+        "Stock Name": "Gujarat State Petronet Ltd.",
+        "Sector": "Gas transmission/marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5895000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5895000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tech Mahindra Ltd.": {
+        "Stock Name": "Tech Mahindra Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1400000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1400000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jubilant Foodworks Ltd.": {
+        "Stock Name": "Jubilant Foodworks Ltd.",
+        "Sector": "Restaurants",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3901000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3901000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Magma Fincorp Ltd.": {
+        "Stock Name": "Magma Fincorp Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5900000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 5900000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ambuja Cements Ltd.": {
+        "Stock Name": "Ambuja Cements Ltd.",
+        "Sector": "Cement & cement products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3629000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3629000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "HCL Technologies Limited": {
+        "Stock Name": "HCL Technologies Limited",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1162000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1162000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 241000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 241000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "LIC Housing Finance Ltd.": {
+        "Stock Name": "LIC Housing Finance Ltd.",
+        "Sector": "Housing finance company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3250000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3250000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 423000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 423000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Federal Bank Ltd.": {
+        "Stock Name": "Federal Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 696000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 696000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1078000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1078000.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "G R Infraprojects Ltd.": {
+        "Stock Name": "G R Infraprojects Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1246000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1246000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bharti Airtel Ltd.": {
+        "Stock Name": "Bharti Airtel Ltd.",
+        "Sector": "Telecom - cellular & fixed line services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1228000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1228000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 344000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 344000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "V-Mart Retail Ltd.": {
+        "Stock Name": "V-Mart Retail Ltd.",
+        "Sector": "Diversified retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 446000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 446000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Crompton Greaves Consumer Electricals Ltd.": {
+        "Stock Name": "Crompton Greaves Consumer Electricals Ltd.",
+        "Sector": "Household appliances",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4801000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4801000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "ICICI Securities Ltd.": {
+        "Stock Name": "ICICI Securities Ltd.",
+        "Sector": "Stockbroking & allied",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1977000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1977000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Wipro Ltd.": {
+        "Stock Name": "Wipro Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3000000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 3000000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1079000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1079000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Tata Communications Ltd.": {
+        "Stock Name": "Tata Communications Ltd.",
+        "Sector": "Telecom - cellular & fixed line services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 900000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 900000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Indian Bank": {
+        "Stock Name": "Indian Bank",
+        "Sector": "Public sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2578000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2578000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 956000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 956000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Axis Bank Ltd.": {
+        "Stock Name": "Axis Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1300000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1300000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 114000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 114000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1117000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1117000.0
+            }
+        },
+        "Number of Funds": 6
+    },
+    "Subros Ltd.": {
+        "Stock Name": "Subros Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2282000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2282000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Innova Captab Ltd.": {
+        "Stock Name": "Innova Captab Ltd.",
+        "Sector": "Petrochemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1800000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1800000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 325000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 325000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Motherson Sumi Systems Ltd.": {
+        "Stock Name": "Motherson Sumi Systems Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7385000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7385000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 977000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 977000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Mahindra & Mahindra Financial Services Ltd.": {
+        "Stock Name": "Mahindra & Mahindra Financial Services Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4882000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4882000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 712000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 712000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Zen Technologies Ltd.": {
+        "Stock Name": "Zen Technologies Ltd.",
+        "Sector": "Aerospace & defense",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 684000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 684000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Navneet Education Ltd.": {
+        "Stock Name": "Navneet Education Ltd.",
+        "Sector": "Printing & publication",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7716000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7716000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "United Spirits Ltd.": {
+        "Stock Name": "United Spirits Ltd.",
+        "Sector": "Breweries & distilleries",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 723000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 723000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Century Plyboards India Ltd.": {
+        "Stock Name": "Century Plyboards India Ltd.",
+        "Sector": "Plywood boards/ laminates",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1229000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1229000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 415000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 415000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "-\nAlkem Laboratories Ltd.": {
+        "Stock Name": "-\nAlkem Laboratories Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 172000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 172000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "JNK India Ltd.": {
+        "Stock Name": "JNK India Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1527000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1527000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 128000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 128000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Juniper Hotels Ltd.": {
+        "Stock Name": "Juniper Hotels Ltd.",
+        "Sector": "Hotels & resorts",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2778000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2778000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 194000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 194000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Heritage Foods (india) Ltd.": {
+        "Stock Name": "Heritage Foods (india) Ltd.",
+        "Sector": "Dairy products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1769000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1769000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "United Breweries Ltd.": {
+        "Stock Name": "United Breweries Ltd.",
+        "Sector": "Breweries & distilleries",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 450000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 450000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Barbeque-Nation Hospitality Ltd.": {
+        "Stock Name": "Barbeque-Nation Hospitality Ltd.",
+        "Sector": "Restaurants",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1302000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1302000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "ISGEC Heavy Engineering Ltd.": {
+        "Stock Name": "ISGEC Heavy Engineering Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 351000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 351000.0
+            },
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Ipca Laboratories Ltd.": {
+        "Stock Name": "Ipca Laboratories Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 265000.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 265000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Carborundum Universal Ltd.": {
+        "Stock Name": "Carborundum Universal Ltd.",
+        "Sector": "Abrasives & bearings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "City Union Bank Ltd.": {
+        "Stock Name": "City Union Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Kotak Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Kotak Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "HDFC Bank Ltd.": {
+        "Stock Name": "HDFC Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 287000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 287000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 857000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 857000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Garware Hi-Tech Films Ltd.": {
+        "Stock Name": "Garware Hi-Tech Films Ltd.",
+        "Sector": "Plastic products - industrial",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 115000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 115000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Shakti Pumps (India) Ltd.": {
+        "Stock Name": "Shakti Pumps (India) Ltd.",
+        "Sector": "Compressors, pumps & diesel engines",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "ICICI Bank Ltd.": {
+        "Stock Name": "ICICI Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 305000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 305000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 515000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 515000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Grasim Industries Limited": {
+        "Stock Name": "Grasim Industries Limited",
+        "Sector": "Cement & cement products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Saregama India Ltd.": {
+        "Stock Name": "Saregama India Ltd.",
+        "Sector": "Media & entertainment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 478000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 478000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tata Consultancy Services Ltd.": {
+        "Stock Name": "Tata Consultancy Services Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 135000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 135000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Bharat Bijlee Ltd.": {
+        "Stock Name": "Bharat Bijlee Ltd.",
+        "Sector": "Other electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Alkem Laboratories Ltd.": {
+        "Stock Name": "Alkem Laboratories Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "GE T&D India Ltd.": {
+        "Stock Name": "GE T&D India Ltd.",
+        "Sector": "Heavy electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 123000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 123000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Bharti Hexacom Ltd.": {
+        "Stock Name": "Bharti Hexacom Ltd.",
+        "Sector": "Telecom - equipment & accessories",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 252000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 252000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Prestige Estates Projects Ltd.": {
+        "Stock Name": "Prestige Estates Projects Ltd.",
+        "Sector": "Residential, commercial projects",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 124000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 124000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "LTIMindtree Ltd.": {
+        "Stock Name": "LTIMindtree Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Kotak Mahindra Bank Ltd.": {
+        "Stock Name": "Kotak Mahindra Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 116000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 116000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 327000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 327000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Reliance Industries Ltd.": {
+        "Stock Name": "Reliance Industries Ltd.",
+        "Sector": "Refineries & marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 144000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 144000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 357000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 357000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Bikaji Foods International Ltd.": {
+        "Stock Name": "Bikaji Foods International Ltd.",
+        "Sector": "Packaged foods",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 226000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 226000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "PCBL Ltd.": {
+        "Stock Name": "PCBL Ltd.",
+        "Sector": "Carbon black",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 466000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 466000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Page Industries Ltd.": {
+        "Stock Name": "Page Industries Ltd.",
+        "Sector": "Garments & apparels",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Allied Blenders and Distillers Ltd.": {
+        "Stock Name": "Allied Blenders and Distillers Ltd.",
+        "Sector": "Breweries & distilleries",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 570000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 570000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "EIH Ltd": {
+        "Stock Name": "EIH Ltd",
+        "Sector": "Hotels & resorts",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 480000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 480000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Emami Ltd.": {
+        "Stock Name": "Emami Ltd.",
+        "Sector": "Personal care",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 247000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 247000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Coromandel International Ltd.": {
+        "Stock Name": "Coromandel International Ltd.",
+        "Sector": "Fertilizers",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 103000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 103000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "EID-Parry (India) Ltd.": {
+        "Stock Name": "EID-Parry (India) Ltd.",
+        "Sector": "Other agricultural products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 213000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 213000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "KEI Industries Ltd.": {
+        "Stock Name": "KEI Industries Ltd.",
+        "Sector": "Cables - electricals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nPi Industries Ltd.": {
+        "Stock Name": "-\nPi Industries Ltd.",
+        "Sector": "Pesticides & agrochemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Surya Roshni Ltd.": {
+        "Stock Name": "Surya Roshni Ltd.",
+        "Sector": "Steel products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 248000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 248000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Gujarat Gas Ltd.": {
+        "Stock Name": "Gujarat Gas Ltd.",
+        "Sector": "Gas transmission/marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 321000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 321000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 688000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 688000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "TD Power Systems Ltd.": {
+        "Stock Name": "TD Power Systems Ltd.",
+        "Sector": "Heavy electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 401000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 401000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nSyngene International Ltd.": {
+        "Stock Name": "-\nSyngene International Ltd.",
+        "Sector": "Healthcare research, analytics & technology",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 192000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 192000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Minda Industries Ltd.": {
+        "Stock Name": "Minda Industries Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 166000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 166000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Kennametal India Ltd.": {
+        "Stock Name": "Kennametal India Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bharat Forge Ltd.": {
+        "Stock Name": "Bharat Forge Ltd.",
+        "Sector": "Castings & forgings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 110000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 110000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "K.P.R. Mill Ltd.": {
+        "Stock Name": "K.P.R. Mill Ltd.",
+        "Sector": "Other textile products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 165000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 165000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Sun Pharmaceutical Industries Ltd.": {
+        "Stock Name": "Sun Pharmaceutical Industries Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Escorts Ltd.": {
+        "Stock Name": "Escorts Ltd.",
+        "Sector": "Tractors",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Techno Electric & Engineering Co. Ltd.": {
+        "Stock Name": "Techno Electric & Engineering Co. Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Avalon Technologies Ltd.": {
+        "Stock Name": "Avalon Technologies Ltd.",
+        "Sector": "Other electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 239000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 239000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 453000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 453000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Hindalco Industries Ltd.": {
+        "Stock Name": "Hindalco Industries Ltd.",
+        "Sector": "Aluminium",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Arvind Fashions Ltd.": {
+        "Stock Name": "Arvind Fashions Ltd.",
+        "Sector": "Speciality retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 239000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 239000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Schaeffler India Ltd.": {
+        "Stock Name": "Schaeffler India Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nCCL Products (India) Ltd.": {
+        "Stock Name": "-\nCCL Products (India) Ltd.",
+        "Sector": "Tea & coffee",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 197000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 197000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Varun Beverages Ltd.": {
+        "Stock Name": "Varun Beverages Ltd.",
+        "Sector": "Other beverages",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 218000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 218000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nSchneider Electric Infrastructure Ltd.": {
+        "Stock Name": "-\nSchneider Electric Infrastructure Ltd.",
+        "Sector": "Heavy electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 160000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 160000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Vedant Fashions Ltd.": {
+        "Stock Name": "Vedant Fashions Ltd.",
+        "Sector": "Speciality retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Balkrishna Industries Ltd.": {
+        "Stock Name": "Balkrishna Industries Ltd.",
+        "Sector": "Tyres & rubber products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "DEE Development Engineers Ltd.": {
+        "Stock Name": "DEE Development Engineers Ltd.",
+        "Sector": "Construction projects",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 428000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 428000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cello World Ltd.": {
+        "Stock Name": "Cello World Ltd.",
+        "Sector": "Household appliances",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 135000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 135000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 156000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "-\nAdor Welding Ltd.": {
+        "Stock Name": "-\nAdor Welding Ltd.",
+        "Sector": "Electrodes & refractories",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "SRF Ltd.": {
+        "Stock Name": "SRF Ltd.",
+        "Sector": "Specialty chemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 140000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 140000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "ITC Limited": {
+        "Stock Name": "ITC Limited",
+        "Sector": "Diversified fmcg",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 215000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 215000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 469000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 469000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "-\nNavin Flourine International Ltd.": {
+        "Stock Name": "-\nNavin Flourine International Ltd.",
+        "Sector": "Commodity chemicals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Azad Engineering Ltd.": {
+        "Stock Name": "Azad Engineering Ltd.",
+        "Sector": "Aerospace & defense",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Star Health and Allied Insurance Co Ltd.": {
+        "Stock Name": "Star Health and Allied Insurance Co Ltd.",
+        "Sector": "General insurance",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 197000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 197000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "DCB Bank Ltd.": {
+        "Stock Name": "DCB Bank Ltd.",
+        "Sector": "Private sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 782000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 782000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Kirloskar Oil Engines Ltd.": {
+        "Stock Name": "Kirloskar Oil Engines Ltd.",
+        "Sector": "Compressors, pumps & diesel engines",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Titan Company Ltd.": {
+        "Stock Name": "Titan Company Ltd.",
+        "Sector": "Gems, jewellery and watches",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Savita Oil Technologies Ltd.": {
+        "Stock Name": "Savita Oil Technologies Ltd.",
+        "Sector": "Lubricants",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 165000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 165000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "SBI Cards and Payment Services Ltd.": {
+        "Stock Name": "SBI Cards and Payment Services Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 128000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 128000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Acrysil Ltd.": {
+        "Stock Name": "Acrysil Ltd.",
+        "Sector": "Houseware",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bank Of India": {
+        "Stock Name": "Bank Of India",
+        "Sector": "Public sector bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 723000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 723000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Metro Brands Ltd.": {
+        "Stock Name": "Metro Brands Ltd.",
+        "Sector": "Footwear",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Afcons Infrastructure Ltd.": {
+        "Stock Name": "Afcons Infrastructure Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 125000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 125000.0
+            },
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 367000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 367000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Divgi Torqtransfer Systems Private Ltd.": {
+        "Stock Name": "Divgi Torqtransfer Systems Private Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Somany Home Innovation Ltd.": {
+        "Stock Name": "Somany Home Innovation Ltd.",
+        "Sector": "Household appliances",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 152000.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 152000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "PSP Projects Ltd.": {
+        "Stock Name": "PSP Projects Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Hindware Home Innovation Ltd.": {
+        "Stock Name": "Hindware Home Innovation Ltd.",
+        "Sector": "Sanitary ware",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Texmaco Rail & Engineering Ltd.": {
+        "Stock Name": "Texmaco Rail & Engineering Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Yatharth Hospital And Trauma Care Services Ltd.": {
+        "Stock Name": "Yatharth Hospital And Trauma Care Services Ltd.",
+        "Sector": "Hospital",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "LIC MF Multi Cap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "LIC MF Multi Cap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Larsen & Toubro Ltd.": {
+        "Stock Name": "Larsen & Toubro Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 264000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 264000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Care Ratings Ltd.": {
+        "Stock Name": "Care Ratings Ltd.",
+        "Sector": "Ratings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 415000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 415000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tata Steel Ltd.": {
+        "Stock Name": "Tata Steel Ltd.",
+        "Sector": "Iron & steel products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4076000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4076000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Whirlpool Of India Ltd.": {
+        "Stock Name": "Whirlpool Of India Ltd.",
+        "Sector": "Household appliances",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 298000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 298000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Delhivery Ltd.": {
+        "Stock Name": "Delhivery Ltd.",
+        "Sector": "Logistics solution provider",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1620000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1620000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ceat Ltd.": {
+        "Stock Name": "Ceat Ltd.",
+        "Sector": "Tyres & rubber products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 201000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 201000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tata Motors Ltd.": {
+        "Stock Name": "Tata Motors Ltd.",
+        "Sector": "Passenger cars & utility vehicles",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 674000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 674000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Gland Pharma Ltd.": {
+        "Stock Name": "Gland Pharma Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 334000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 334000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tata Power Co. Ltd.": {
+        "Stock Name": "Tata Power Co. Ltd.",
+        "Sector": "Integrated power utilities",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1217000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1217000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Vedanta Ltd.": {
+        "Stock Name": "Vedanta Ltd.",
+        "Sector": "Diversified metals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1107000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1107000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jyothy Laboratories Ltd.": {
+        "Stock Name": "Jyothy Laboratories Ltd.",
+        "Sector": "Household products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 943000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 943000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Coal India Ltd.": {
+        "Stock Name": "Coal India Ltd.",
+        "Sector": "Coal",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1047000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1047000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "RPG Life Sciences Ltd": {
+        "Stock Name": "RPG Life Sciences Ltd",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 188000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 188000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Vijaya Diagnostic Centre Ltd.": {
+        "Stock Name": "Vijaya Diagnostic Centre Ltd.",
+        "Sector": "Healthcare service provider",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 464000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 464000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Motherson Sumi Wiring India Ltd.": {
+        "Stock Name": "Motherson Sumi Wiring India Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7375000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 7375000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bharat Electronics Ltd.": {
+        "Stock Name": "Bharat Electronics Ltd.",
+        "Sector": "Aerospace & defense",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1592000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1592000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cyient Ltd.": {
+        "Stock Name": "Cyient Ltd.",
+        "Sector": "It enabled services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 230000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 230000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "GO Digit General Insurance Ltd.": {
+        "Stock Name": "GO Digit General Insurance Ltd.",
+        "Sector": "General insurance",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1260000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1260000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 470000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 470000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Zensar Technologies Ltd.": {
+        "Stock Name": "Zensar Technologies Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 587000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 587000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "HDFC Asset Management Co. Ltd.": {
+        "Stock Name": "HDFC Asset Management Co. Ltd.",
+        "Sector": "Asset management company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nInterGlobe Aviation Ltd.": {
+        "Stock Name": "-\nInterGlobe Aviation Ltd.",
+        "Sector": "Airline",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "ICICI Prudential Life Insurance Co Ltd.": {
+        "Stock Name": "ICICI Prudential Life Insurance Co Ltd.",
+        "Sector": "Life insurance",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 547000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 547000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "National Aluminium Co. Ltd.": {
+        "Stock Name": "National Aluminium Co. Ltd.",
+        "Sector": "Aluminium",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1650000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1650000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Arvind Ltd.": {
+        "Stock Name": "Arvind Ltd.",
+        "Sector": "Garments & apparels",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 956000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 956000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cummins India Ltd.": {
+        "Stock Name": "Cummins India Ltd.",
+        "Sector": "Compressors, pumps & diesel engines",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Lupin Ltd.": {
+        "Stock Name": "Lupin Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 157000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 157000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "One 97 Communications Ltd.": {
+        "Stock Name": "One 97 Communications Ltd.",
+        "Sector": "Financial technology (fintech)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 450000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 450000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Indus Towers Ltd.": {
+        "Stock Name": "Indus Towers Ltd.",
+        "Sector": "Telecom - infrastructure",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1001000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1001000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Teamlease Services Ltd.": {
+        "Stock Name": "Teamlease Services Ltd.",
+        "Sector": "Diversified commercial services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 118000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 118000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Orient Electric Ltd.": {
+        "Stock Name": "Orient Electric Ltd.",
+        "Sector": "Consumer electronics",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1334000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1334000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Equitas Small Finance Bank Ltd.": {
+        "Stock Name": "Equitas Small Finance Bank Ltd.",
+        "Sector": "Other bank",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4679000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 4679000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "P N Gadgil Jewellers Ltd.": {
+        "Stock Name": "P N Gadgil Jewellers Ltd.",
+        "Sector": "Gems, jewellery and watches",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 454000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 454000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 180000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 180000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Sudarshan Chemical Industries Ltd.": {
+        "Stock Name": "Sudarshan Chemical Industries Ltd.",
+        "Sector": "Dyes and pigments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 310000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 310000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Dr. Reddys Laboratories Ltd.": {
+        "Stock Name": "Dr. Reddys Laboratories Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 252000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 252000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Campus Activewear Ltd.": {
+        "Stock Name": "Campus Activewear Ltd.",
+        "Sector": "Footwear",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1068000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1068000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bharat Petroleum Corporation Ltd.": {
+        "Stock Name": "Bharat Petroleum Corporation Ltd.",
+        "Sector": "Refineries & marketing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1005000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1005000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Multi Commodity Exchange Of India Ltd.": {
+        "Stock Name": "Multi Commodity Exchange Of India Ltd.",
+        "Sector": "Exchange and data platform",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Craftsman Automation Ltd.": {
+        "Stock Name": "Craftsman Automation Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Interarch Building Products Ltd.": {
+        "Stock Name": "Interarch Building Products Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 170000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 170000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "Glenmark Pharmaceuticals Ltd.": {
+        "Stock Name": "Glenmark Pharmaceuticals Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 170000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 170000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Sobha Ltd.": {
+        "Stock Name": "Sobha Ltd.",
+        "Sector": "Residential, commercial projects",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 177000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 177000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Associated Cement Companies Ltd.": {
+        "Stock Name": "Associated Cement Companies Ltd.",
+        "Sector": "Cement & cement products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 117000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 117000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Aurobindo Pharma Ltd.": {
+        "Stock Name": "Aurobindo Pharma Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 182000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 182000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bajaj Finance Ltd.": {
+        "Stock Name": "Bajaj Finance Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Shriram Finance Ltd.": {
+        "Stock Name": "Shriram Finance Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bata India Ltd.": {
+        "Stock Name": "Bata India Ltd.",
+        "Sector": "Footwear",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 181000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 181000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Birlasoft Ltd.": {
+        "Stock Name": "Birlasoft Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 445000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 445000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ola Electric Mobility Ltd.": {
+        "Stock Name": "Ola Electric Mobility Ltd.",
+        "Sector": "2/3 wheelers",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2960000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2960000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Narayana Hrudayalaya Ltd.": {
+        "Stock Name": "Narayana Hrudayalaya Ltd.",
+        "Sector": "Hospital",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 175000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 175000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Timken India Ltd.": {
+        "Stock Name": "Timken India Ltd.",
+        "Sector": "Abrasives & bearings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cartrade Tech Ltd.": {
+        "Stock Name": "Cartrade Tech Ltd.",
+        "Sector": "E-retail/ e-commerce",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 180000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 180000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Gateway Rail Freight Ltd.": {
+        "Stock Name": "Gateway Rail Freight Ltd.",
+        "Sector": "Logistics solution provider",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1546000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1546000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Nrb Bearings Ltd.": {
+        "Stock Name": "Nrb Bearings Ltd.",
+        "Sector": "Abrasives & bearings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 431000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 431000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ganesha Ecosphere Ltd.": {
+        "Stock Name": "Ganesha Ecosphere Ltd.",
+        "Sector": "Other textile products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Prince Pipes and Fittings Ltd.": {
+        "Stock Name": "Prince Pipes and Fittings Ltd.",
+        "Sector": "Plastic products - industrial",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 215000.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 215000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Dalmia Bharat Ltd.": {
+        "Stock Name": "Dalmia Bharat Ltd.",
+        "Sector": "Cement & cement products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Flair Writing Industries Ltd.": {
+        "Stock Name": "Flair Writing Industries Ltd.",
+        "Sector": "Stationary",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Mirae Asset Multicap Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Mirae Asset Multicap Fund - Regular Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 150000.0
+            }
+        },
+        "Number of Funds": 4
+    },
+    "JSW Infrastructure Ltd.": {
+        "Stock Name": "JSW Infrastructure Ltd.",
+        "Sector": "Engineering, designing, construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1211000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1211000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ask Automotive Ltd.": {
+        "Stock Name": "Ask Automotive Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 732000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 732000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Happy Forgings Ltd.": {
+        "Stock Name": "Happy Forgings Ltd.",
+        "Sector": "Castings & forgings",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "TBO TEK Ltd.": {
+        "Stock Name": "TBO TEK Ltd.",
+        "Sector": "Tour, travel related services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 183000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 183000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bajaj Housing Finance Ltd.": {
+        "Stock Name": "Bajaj Housing Finance Ltd.",
+        "Sector": "Housing finance company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2175000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 2175000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Doms Industries Ltd.": {
+        "Stock Name": "Doms Industries Ltd.",
+        "Sector": "Stationary",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "India Shelter Finance Corporation Ltd.": {
+        "Stock Name": "India Shelter Finance Corporation Ltd.",
+        "Sector": "Housing finance company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 360000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 360000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Tata Technologies Ltd.": {
+        "Stock Name": "Tata Technologies Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 235000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 235000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Inox India Ltd.": {
+        "Stock Name": "Inox India Ltd.",
+        "Sector": "Engineering",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 200000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Kaynes Technology India Private Ltd.": {
+        "Stock Name": "Kaynes Technology India Private Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Aadhar Housing Finance Ltd.": {
+        "Stock Name": "Aadhar Housing Finance Ltd.",
+        "Sector": "Housing finance company",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 465000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 465000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Samhi Hotels Ltd.": {
+        "Stock Name": "Samhi Hotels Ltd.",
+        "Sector": "Hotels & resorts",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1070000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1070000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Awfis Space Solutions Ltd.": {
+        "Stock Name": "Awfis Space Solutions Ltd.",
+        "Sector": "Diversified commercial services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 280000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Mankind Pharma Ltd.": {
+        "Stock Name": "Mankind Pharma Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Updater Services Ltd.": {
+        "Stock Name": "Updater Services Ltd.",
+        "Sector": "Diversified commercial services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 445000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 445000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Hyundai Motor India Ltd.": {
+        "Stock Name": "Hyundai Motor India Ltd.",
+        "Sector": "Passenger cars & utility vehicles",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Concord Biotech Ltd.": {
+        "Stock Name": "Concord Biotech Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Blue Jet Healthcare Ltd.": {
+        "Stock Name": "Blue Jet Healthcare Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 325000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 325000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Indegene Ltd.": {
+        "Stock Name": "Indegene Ltd.",
+        "Sector": "Healthcare research, analytics & technology",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 240000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 240000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ceigall India Ltd.": {
+        "Stock Name": "Ceigall India Ltd.",
+        "Sector": "Civil construction",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 395000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 395000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Bansal Wire Industries Ltd.": {
+        "Stock Name": "Bansal Wire Industries Ltd.",
+        "Sector": "Iron & steel products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 333000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 333000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Emcure Pharmaceuticals Ltd.": {
+        "Stock Name": "Emcure Pharmaceuticals Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Jupiter Life Line Hospitals Ltd.": {
+        "Stock Name": "Jupiter Life Line Hospitals Ltd.",
+        "Sector": "Hospital",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "KFIN Technologies Ltd.": {
+        "Stock Name": "KFIN Technologies Ltd.",
+        "Sector": "Financial technology (fintech)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 120000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 120000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Latent View Analytics Ltd.": {
+        "Stock Name": "Latent View Analytics Ltd.",
+        "Sector": "Computers - software & consulting",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 250000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 250000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Fedbank Financial Services Ltd.": {
+        "Stock Name": "Fedbank Financial Services Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1070000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 1070000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nApeejay Surrendra Park Hotels Ltd.": {
+        "Stock Name": "-\nApeejay Surrendra Park Hotels Ltd.",
+        "Sector": "Hotels & resorts",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 700000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 700000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Protean eGov Technologies Ltd.": {
+        "Stock Name": "Protean eGov Technologies Ltd.",
+        "Sector": "Financial technology (fintech)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Akums Drugs And Pharmaceuticals Ltd.": {
+        "Stock Name": "Akums Drugs And Pharmaceuticals Ltd.",
+        "Sector": "Pharmaceuticals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 122000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 122000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Baazar Style Retail Ltd.": {
+        "Stock Name": "Baazar Style Retail Ltd.",
+        "Sector": "Speciality retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 290000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 290000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Ecos India Mobility and Hospitality Ltd.": {
+        "Stock Name": "Ecos India Mobility and Hospitality Ltd.",
+        "Sector": "Road assets\u2013toll, annuity, hybrid-annuity",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 240000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 240000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Gopal Snacks Ltd.": {
+        "Stock Name": "Gopal Snacks Ltd.",
+        "Sector": "Packaged foods",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 194000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 194000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Godavari Biorefineries Ltd.": {
+        "Stock Name": "Godavari Biorefineries Ltd.",
+        "Sector": "Diversified fmcg",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 256000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 256000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Yatra Online Ltd.": {
+        "Stock Name": "Yatra Online Ltd.",
+        "Sector": "Tour, travel related services",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 765000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 765000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Kross Ltd.": {
+        "Stock Name": "Kross Ltd.",
+        "Sector": "Auto components & equipments",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 508000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 508000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Waaree Energies Ltd.": {
+        "Stock Name": "Waaree Energies Ltd.",
+        "Sector": "Other electrical equipment",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Medi Assist Healthcare Services Ltd.": {
+        "Stock Name": "Medi Assist Healthcare Services Ltd.",
+        "Sector": "Healthcare service provider",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 136000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 136000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Five-Star Business Finance Ltd.": {
+        "Stock Name": "Five-Star Business Finance Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 100000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Sai Silk (Kalamandir) Ltd.": {
+        "Stock Name": "Sai Silk (Kalamandir) Ltd.",
+        "Sector": "Speciality retail",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 366000.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 366000.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "R R Kabel Ltd.": {
+        "Stock Name": "R R Kabel Ltd.",
+        "Sector": "Cables - electricals",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Dodla Dairy Ltd.": {
+        "Stock Name": "Dodla Dairy Ltd.",
+        "Sector": "Dairy products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "-\nStanley Lifestyles Ltd.": {
+        "Stock Name": "-\nStanley Lifestyles Ltd.",
+        "Sector": "Furniture, home furnishing",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Cyient DLM Ltd.": {
+        "Stock Name": "Cyient DLM Ltd.",
+        "Sector": "Industrial products",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "Northern Arc Capital Ltd.": {
+        "Stock Name": "Northern Arc Capital Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    },
+    "SBFC Finance Ltd.": {
+        "Stock Name": "SBFC Finance Ltd.",
+        "Sector": "Non banking financial company (nbfc)",
+        "Quantity": 0.0,
+        "Mutual Funds": {
+            "Edelweiss Recently Listed IPO Fund - Direct Plan - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            },
+            "Edelweiss Recently Listed IPO Fund - Growth": {
+                "Quantity Held": 0.0,
+                "Quantity Sold": 0.0,
+                "Quantity Bought": 0.0
+            }
+        },
+        "Number of Funds": 2
+    }
+}
