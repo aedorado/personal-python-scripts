@@ -119,6 +119,27 @@ if __name__ == "__main__":
         # "BJP/Misc": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F03_-_ISKCON_Prabhujis%2FISKCON_Prabhujis_-_A_to_J%2FHis_Grace_Bhurijana_Prabhu",
         # "BJP/Krishna Book": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F03_-_ISKCON_Prabhujis%2FISKCON_Prabhujis_-_A_to_J%2FHis_Grace_Bhurijana_Prabhu%2FKrishna_Book",
         # "BJP/NoI": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F03_-_ISKCON_Prabhujis%2FISKCON_Prabhujis_-_A_to_J%2FHis_Grace_Bhurijana_Prabhu%2FNectar_of_Instruction"
+        # "Aindra Das": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F03_-_ISKCON_Prabhujis%2FISKCON_Prabhujis_-_A_to_J%2FHis_Grace_Aindra_Prabhu%2FBhajans%2FOthers",
+        # "RGS/SB/Canto 10 Misc": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F04_-_Srimad_Bhagavatam_Lectures%2FCanto-10", 
+        # "RGS/CC/Sanatan Shiksha" : "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F02_-_Chaitanya_Charitamrita%2F06_-_Sanatan_Siksha-CC_Madhya_Lila_22",
+        # "RGS/Canto 10.41-45 - Mathura Lila": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F01_-_Srimad_Bhagavatam_Katha%2FCanto-10%2F38_-_Mathura_Leela-SB_10-41-45_-_2008_Haridwar",
+        # "RGS/Canto 10.29 - Pranay Geeta": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F01_-_Srimad_Bhagavatam_Katha%2FCanto-10%2F30_-_Pranaya_Geet-SB_10-29_-_Vrindavan",
+        # "RGS/Canto 6 - Ajamila": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FAjamila_Katha_-_2004",
+        # "RGS/Canto 8 - Bali Maharaja": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FBali_Maharaj_-_2006_Noida",
+        # "RGS/CC/Sannyasa": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FChaitanya_sanyasa",
+        # "RGS/Canto 10 - Dwarka Leela": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FDwarka_leela",
+        # "RGS/Canto 8 - Gajendra Moksha": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FGajendra_moksha",
+        # "RGS/Canto 7/Prahalad Maharaja": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FPrahalad_Maharaj",
+        # "RGS/Canto 11/24 Gurus": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2FTwenty_Four_Gurus",
+        # "RGS/Canto 8.5-12/Samdhra Manthan": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F01_-_Srimad_Bhagavatam_Katha%2FCanto-08%2F07_-_Samundra_Mantha_Leela-SB_08-05-12_-_Bhubaneshwar",
+        # "RGS/Canto 5.7-14": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_R_to_Y%2FHis_Holiness_Radha_Govinda_Swami%2F00_-_Canto-Wise_Katha%2F01_-_Srimad_Bhagavatam_Katha%2FCanto-05%2FBharat_Maharaj_ki_Katha-SB_05-07-14_-_2003_ISKCON_Juhu",
+        # "MNS/Ekadashi": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F04_-_Ekadashi_Vratas",
+        # "MNS/Radha Rasa Sudha Nidhi 1": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F12_-_Radha_Rasa_Sudha_Nidhi_-_1",
+        # "MNS/Radha Rasa Sudha Nidhi 2": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F12_-_Radha_Rasa_Sudha_Nidhi_-_2",
+        # "MNS/Radha Rasa Sudha Nidhi 3": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F12_-_Radha_Rasa_Sudha_Nidhi_-_3",
+        # "MNS/Shiva Tattva": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F08_-_Shiva_Tattva",
+        # "MNS/Vrindavan Mahimamrita 1": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F18_-_Vrindavan_Mahimamrta_Part_01",
+        "MNS/Vrindavan Mahimamrita 2": "https://audio.iskcondesiretree.com/index.php?q=f&f=%2F02_-_ISKCON_Swamis%2FISKCON_Swamis_-_D_to_P%2FHis_Holiness_Mahanidhi_Swami%2F18_-_Vrindavan_Mahimarita_Part-02",
     }
 
     # Main folder to save all downloaded audio files

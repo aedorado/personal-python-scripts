@@ -1,3 +1,7 @@
 *.csv
 
 *.pyc
+
+*.mp3
+
+.DS_Store
