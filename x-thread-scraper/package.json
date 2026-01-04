@@ -1,0 +1,19 @@
+{
+  "name": "x-thread-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js",
+    "export-pdf": "node src/export/export-pdf.js",
+    "test": "node tests/test-image-extraction.js",
+    "reset-db": "node src/database/reset-db.js",
+    "test:phase2-links": "node tests/run-phase2-links.js"
+  },
+  "dependencies": {
+    "@expo-google-fonts/noto-sans-devanagari": "^0.4.1",
+    "better-sqlite3": "^12.5.0",
+    "pdfkit": "^0.15.0",
+    "playwright": "^1.44.0"
+  }
+}

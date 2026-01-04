@@ -1,0 +1,2 @@
+PRAGMA database_list;
+SELECT name FROM "main".sqlite_schema  WHERE type IN ('table','view')   AND name NOT LIKE 'sqlite_%'   AND name LIKE ?1 ORDER BY 1;
